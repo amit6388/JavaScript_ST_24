@@ -1,0 +1,72 @@
+
+                                                    NOTE
+                                                  ==========
+ A TASK FROM BASIC TO INTERMEDIATE LEVEL HAS BEEN GIVEN HERE, WHERE OPERATORS AND CONDITIONAL STATEMENTS ARE USED.
+ YOU WERE INTRODUCED TO ALL THESE CONCEPTS IN THE BASICS OF C. 
+ PLEASE TRY TO SOLVE ALL THE QUESTIONS. THERE ARE MANY TASKS BELOW WITH HINTS PROVIDED,
+ WHICH YOU CAN USE FOR HELP.
+
+
+
+
+
+                                          /*   TASK DAY 1*/
+
+1.Declare a variable named age and assign it your age. Then, use console.log to print the variable.
+
+2.Create a constant variable PI and assign it the value 3.14. Print the value using console.log.
+
+3.Declare a variable name with your first name and another variable lastName with your last name. 
+      Concatenate these variables into a fullName variable and display it using console.log.
+	   Hint-:let fullName = name + ' ' + lastName;
+4. Create a variable isStudent and assign it a boolean value (true or false). Use alert to display
+   the value of isStudent.
+   
+5.Write a program that calculates the area of a rectangle. Use variables length and width, 
+   and then display the area using console.log   
+   
+6.Use alert to display a message "Hello, India!". 
+
+7.Create two variables, x and y, assign them numeric values, and use console.log to print their sum.
+
+8.Display the result of the expression 10 % 3 using console.log to find the remainder of the division.
+  
+9.Create a variable greeting with the value "Good Morning". Use alert to display the greeting message.
+
+10.Write a program that swaps the values of two variables, a and b, and displays the swapped values
+     using console.log.  
+
+11.Write a program that checks if a number n is even or odd and prints the result using console.log.
+               Hint-:      if (n % 2 === 0)
+
+12.Create a variable age and check if it is greater than or equal to 18. Use console.log to display 
+   whether the person is an adult or not.	 
+  
+13.Use the ternary operator to check if a number num is positive, negative, or zero, and display the result
+   using console.log.  
+             Hint-:  let result = num > 0 ? 'Positive' : num < 0 ? 'Negative' : 'Zero';
+ 
+14.Write a program that calculates the average of three numbers and displays it using console.log.
+                    
+15.Create a variable temperature and use a conditional statement to check if it is below freezing (0°C).
+     Display a message using console.log based on the temperature.
+	 msg=> 'It is freezing' OR 'It is not freezing'
+
+16.Write a program that performs addition, subtraction, multiplication, and division on two numbers and prints
+   the results using console.log.	 
+   
+17.Use the ++ operator to increment a variable count and display the value using console.log.  
+                    Hint-: count++;
+						  
+						  
+18.Create a variable price and apply a 10% discount using the * operator. Display the discounted price using console.log. 
+            Hint-:        let discountedPrice = price * (1 - discount);
+	
+	
+19.Check if a number number is between 10 and 20 using relational operators and display the result using console.log.
+      Hint-: let isInRange = if(number > 10 && number < 20);
+	     msg=> 'number is between 10 and 20' OR 'number is not between 10 and 20'
+	  
+20.Write a program that converts a temperature in Fahrenheit to Celsius using the formula C = (F - 32) * 5 / 9 and 
+     display the result using console.log.
+	 Hint-: let celsius = (fahrenheit - 32) * 5 / 9;
