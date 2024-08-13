@@ -1,10 +1,14 @@
 
                                                     NOTE
                                                   ==========
+											  
+												  
  A TASK FROM BASIC TO INTERMEDIATE LEVEL HAS BEEN GIVEN HERE, WHERE OPERATORS AND CONDITIONAL STATEMENTS ARE USED.
  YOU WERE INTRODUCED TO ALL THESE CONCEPTS IN THE BASICS OF C. 
  PLEASE TRY TO SOLVE ALL THE QUESTIONS.
  THERE ARE MANY TASKS BELOW WITH HINTS PROVIDED,WHICH YOU CAN USE FOR HELP.
+ 
+ Plz make a neat and clean note.(HardCopy)	
                     
 					
 					/*   BASIC Example of conditional statement*/
