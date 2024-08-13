@@ -8,7 +8,7 @@
  PLEASE TRY TO SOLVE ALL THE QUESTIONS.
  THERE ARE MANY TASKS BELOW WITH HINTS PROVIDED,WHICH YOU CAN USE FOR HELP.
  
- Plz make a neat and clean note.(HardCopy)	
+        PLEASE MAKE A NEAT AND CLEAN NOTE (HARDCOPY) BASED ON YOUR UNDERSTANDING.
                     
 					
 					/*   BASIC Example of conditional statement*/
@@ -115,6 +115,7 @@
 10.Create input tag and a button  , when clicked on button , apply the css on the input like color, border, backgroundColor(camelCase),
     height,width etc . 	
  
+ ====================
 												 
 												 
 												 
