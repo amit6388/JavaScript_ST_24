@@ -3,11 +3,17 @@
                                                   ==========
  A TASK FROM BASIC TO INTERMEDIATE LEVEL HAS BEEN GIVEN HERE, WHERE OPERATORS AND CONDITIONAL STATEMENTS ARE USED.
  YOU WERE INTRODUCED TO ALL THESE CONCEPTS IN THE BASICS OF C. 
- PLEASE TRY TO SOLVE ALL THE QUESTIONS. THERE ARE MANY TASKS BELOW WITH HINTS PROVIDED,
- WHICH YOU CAN USE FOR HELP.
+ PLEASE TRY TO SOLVE ALL THE QUESTIONS.
+ THERE ARE MANY TASKS BELOW WITH HINTS PROVIDED,WHICH YOU CAN USE FOR HELP.
+                    
+					
+					/*   BASIC Example of conditional statement*/
 
-
-
+								  if (age >= 18) {
+										console.log('Adult');
+									} else {
+										console.log('Not an adult');
+									}
 
 
                                           /*   TASK DAY 1*/
@@ -70,3 +76,44 @@
 20.Write a program that converts a temperature in Fahrenheit to Celsius using the formula C = (F - 32) * 5 / 9 and 
      display the result using console.log.
 	 Hint-: let celsius = (fahrenheit - 32) * 5 / 9;
+	 
+	 
+	                                             /*   TASK DAY 2*/
+												 
+												 
+												 
+												 
+1. Write a function that takes a string with a number and returns the integer value using parseInt.
+
+2.Create a function that converts an input field value to an integer using parseInt and displays it 
+  in an alert box.
+  
+3.Create a form with a text input field. Write a function that retrieves the value from the input field,\
+      parses it with parseInt, and logs it to the console.  
+	  
+4.Write a JavaScript function that takes two input fields, parses their values with parseInt, adds them, and
+   displays the result in console .	
+
+5.Write a function to parse the value of an input field as an integer and check if it is greater than 10.
+   Display a message  alert.   
+   
+6.Write a function to retrieve and parse the values from two input fields with parseInt, calculate their 
+     average, and display the result in another input field.
+
+7.Create a button that, when clicked, apply the css on the button like color, border, backgroundColor(camelCase),
+    height,width  etc .	 
+		
+8.	Create img tag and a button  , when clicked on button , apply the css on the img tag like color, border, backgroundColor(camelCase),
+    height,width etc .
+	
+9.Write a function that  calculate the simple interest and alert the result.
+
+10.Create input tag and a button  , when clicked on button , apply the css on the input like color, border, backgroundColor(camelCase),
+    height,width etc . 	
+ 
+												 
+												 
+												 
+												 
+												 
+												 
