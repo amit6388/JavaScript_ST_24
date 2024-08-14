@@ -13,7 +13,7 @@
        (located in the images directory of the same repository) or use your own images.
 	   
 	   
-	Note -:   Complete your previous task if you have not already done so.
+	Note -:   Complete your previous task if you have not already done.
  ====================
 												 
 												 
