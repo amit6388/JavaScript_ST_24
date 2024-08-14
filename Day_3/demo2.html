@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <input type="number" id="input1" />
+  <input type="number" id="input2" />
+  <input type="submit" onclick="Swap()" id="btn" />
+
+  <script>
+    function Swap() {
+      var input1 = document.getElementById("input1");
+      var input2 = document.getElementById("input2");
+      
+      var temp = input1.value;
+      input1.value = input2.value;
+      input2.value = temp; 
+    }
+  </script>
+</body>
+</html>
