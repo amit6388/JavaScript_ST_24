@@ -12,6 +12,19 @@
 3.Create an img tag and a button. When the button is clicked, change the image between on.jfif and off.jfif 
        (located in the images directory of the same repository) or use your own images.
 	   
+	
+4.	Create TWO img tag and a button. When the button is clicked, SWAP the image.
+	                                HINT-:
+
+								   function swap()
+											{
+											var a=document.getElementById("img1");
+											var b=document.getElementById("img2");
+											var path=a.src;
+											var path1=b.src;
+											a.src=path1;
+											b.src=path;
+											}
 	   
 	Note -:   Complete your previous task if you have not already done.
  ====================
