@@ -1,0 +1,51 @@
+
+                                                   
+	                                             /*   TASK DAY 4*/
+												 
+												 
+												 
+												 
+1.How do you use setTimeout to delay a function by 3 seconds?.
+
+2.How can you use setInterval to log a message every 2 seconds?.
+
+3.How do you stop an interval using clearInterval?.
+	   
+	
+4.	How do you change the text of a paragraph element with querySelector?
+      HINT-: document.querySelector("p").innerHTML = "New text for the paragraph.";
+	  
+5.How can you hide an element after 4 seconds using setTimeout and querySelector?
+         HINT-  document.querySelector("#myElement").style.display = "none";
+		 
+		 
+6.How do you use querySelector to change the color of all h1 elements to blue?		 
+
+7.How can you make an image element appear after 2 seconds using setTimeout and querySelector?
+
+8. How do you clear an interval after 10 seconds using clearInterval?
+
+9.How do you log "Hello, World!" 5 times, once every second, using setInterval?
+
+10.How can you use querySelector to log the value of an input field when a button is clicked?
+
+11.Write a function that changes the background color of a webpage after 5 seconds using setTimeout.
+
+12.How can you change the content of a paragraph with class="message" after 4 seconds using querySelector?
+					
+					HINT-:			  setTimeout(() => {
+						             document.querySelector(".message").innerHTML = "Content changed after 4 seconds.";
+						             }, 4000);
+
+ 
+
+	   
+	   
+	Note -:   Complete your previous task if you have not already done.
+    ====================
+												 
+												 
+												 
+												 
+												 
+												 
