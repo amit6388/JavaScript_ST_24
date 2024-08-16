@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            background: black;
+        }
+#box{
+    min-height: 150px;
+    width: 1000px;
+    border: 20px solid white;
+    margin: 100px auto;
+    font-size: 200px;
+    color: red;
+    text-align: center;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 1px black inset;
+    font-family: Digital-7;
+}
+    </style>
+</head>
+<body>
+    <div id="box"> jgy
+    </div>
+    <script>
+        function watch(){ 
+            var t=new Date();
+            var formatedDate=t.toLocaleTimeString();
+            var box=document.getElementById("box")
+               box.innerHTML=formatedDate; 
+        } 
+      setInterval(watch,1000)
+    </script>
+</body>
+</html>
