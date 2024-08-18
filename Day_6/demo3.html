@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+    #register{
+        height: 200px;
+        width: 250px;
+        background: red;
+        text-align: center;
+        font-size: 70px;
+        margin: 4px;
+        color: white;
+        line-height:200px ;
+        display: none;
+    }
+    #login{
+        height: 200px;
+        width: 250px;
+        background: black;
+        text-align: center;
+        font-size: 70px;
+        margin: 4px;
+        color: white;
+        line-height:200px ;
+        display: none;
+    }
+   </style> 
+</head>
+<body>
+    <input type="submit" onclick="register()" value="register" id="btn1"/>
+    <input type="submit" onclick="login()" value="login" id="btn2"/>
+   
+    <div id="register">Register</div>
+    <div id="login">Login</div>
+    <script> 
+     function register(){
+        var reg=document.querySelector("#register");
+        reg.style.display="block";
+        var log=document.querySelector("#login");
+        log.style.display="none";
+     }
+     function login(){
+        var log=document.querySelector("#login");
+        log.style.display="block";
+        var reg=document.querySelector("#register");
+        reg.style.display="none";
+
+     }
+    </script>
+    
+</body>
+</html>
