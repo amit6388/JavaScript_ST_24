@@ -1,0 +1,37 @@
+
+	                                             /*   TASK DAY 2*/
+												 
+												 
+												 
+												 
+1. Write a function that takes a string with a number and returns the integer value using parseInt.
+
+2.Create a function that converts an input field value to an integer using parseInt and displays it 
+  in an alert box.
+  
+3.Create a form with a text input field. Write a function that retrieves the value from the input field,\
+      parses it with parseInt, and logs it to the console.  
+	  
+4.Write a JavaScript function that takes two input fields, parses their values with parseInt, adds them, and
+   displays the result in console .	
+
+5.Write a function to parse the value of an input field as an integer and check if it is greater than 10.
+   Display a message  alert.   
+   
+6.Write a function to retrieve and parse the values from two input fields with parseInt, calculate their 
+     average, and display the result in another input field.
+
+7.Create a button that, when clicked, apply the css on the button like color, border, backgroundColor(camelCase),
+    height,width  etc .	 
+		
+8.	Create img tag and a button  , when clicked on button , apply the css on the img tag like color, border, backgroundColor(camelCase),
+    height,width etc .
+	
+9.Write a function that  calculate the simple interest and alert the result.
+
+10.Create input tag and a button  , when clicked on button , apply the css on the input like color, border, backgroundColor(camelCase),
+    height,width etc . 	
+ 
+ ====================
+												 
+							
