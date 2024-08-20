@@ -26,7 +26,8 @@ Topics Covered
 19. innerHTML// 
 20. innerText
     - Element (input, img, p, div)
-
-   ############ Upcoming ##########
+ 
 21. this keyword, etc.
+22. for-loop
+23.array
 */
