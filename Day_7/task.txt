@@ -1,0 +1,14 @@
+
+                                                    
+
+                                          /*   TASK DAY 7*/ 
+										  
+1.WAP in javascript to make an array with 10 elements and print all elements in list.
+
+2. WAP to make an array with 10 elements and bind all elements in select tag.
+
+3. WAP to make an array for courses and print all elements of array in div with different color.
+
+4.  Write a program to calculate the sum of all elements in an array.
+
+5. Write a program to insert an element at a specific position in an array.
