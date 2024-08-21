@@ -30,4 +30,5 @@ Topics Covered
 21. this keyword, etc.
 22. for-loop
 23.array
+24.Object
 */
