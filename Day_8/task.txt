@@ -1,16 +1,32 @@
 
-                                                    
+                                                
+                                        Machine Test
+										============
+1. Declare a variable named age and assign it your age. Then, use console.log to print the variable. 
+2. Create a variable isStudent and assign it a boolean value (true or false). Use alert to display
+     the value of isStudent. 
+3.Write a program that calculates the area of a rectangle. Use variables length and width, 
+    and then display the area using console.log  
+4.Write a program that checks if a number n is even or odd and prints the result using console.log 
+     (take number input using prompt function).  
+5.Write a JavaScript function that takes two input fields, parses their values with parseInt, adds them, and
+     displays the result in console . 
+6.Create a button that, when clicked, apply the css on the button like color, border, backgroundColor,
+     height,width  etc .  
+7.Write a function that  calculate the simple interest and alert the result. 
+8.Create a fully functional calculator (+ , - , * , / ) using two input fields.  
+9.swap the value of the two input tags. 
+10.How can you use setInterval to log a message every 2 seconds?. 
+11.How can you make an image element appear after 2 seconds using setTimeout and querySelector ? 
+12.WAP in javascript to make an array with 10 elements and print all elements in list. 
+13. Write a program to calculate the multiply of all elements in an array. 
+14. Create a image gallery using onmouseover event(use 5 images). 
+15.Create a button that, when clicked, check the validation of input field (is mobile no 10 digits ?) . 
 
-                                          /*   TASK DAY 8*/ 
-										  
-									There is no task for today.
-									
-									Tomorrow is your machine test.
-									============================
-									
-									
-									The questions will be from tasks covered from Day 1 to Day 7.
-									Please make sure to practice thoroughly.
-                                    Also inform all your friends.									
-		                          
+
+
+
+
+	
+                                           
  
